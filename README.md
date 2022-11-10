@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @philamp
-- Just coding for fun with a friend who's billion times more skilled than me
+- Just coding for fun I'm not a professional dev
 
 <!---
 philamp/philamp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
